@@ -78,10 +78,11 @@ const Header = () => {
     
 ))}
 </ul>   
-
+<Link href={"/contact"}>
 <button className='w-40 bg-transparent h-11 flex justify-center items-center   text-xl font-semibold butt'>
         Contact
     </button>
+</Link>
 
       </SheetDescription>
     </SheetHeader>
