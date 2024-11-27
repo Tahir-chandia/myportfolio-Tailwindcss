@@ -27,7 +27,7 @@ const Projects = () => {
                             </div>
                         </div>
                         <Image src={"/project-1.png"} alt="image" width={300} height={200}
-                         className='w-full h-full'/>
+                         className='w-full h-full object-cover'/>
                     </div>
 
                     <div className="card relative h-60">
@@ -45,7 +45,7 @@ const Projects = () => {
                                 </div>
 
                         </div>
-                        <Image src={"/project-2.png"} alt="image" width={300} height={200} className='w-full h-full'/>
+                        <Image src={"/project-2.png"} alt="image" width={300} height={200} className='w-full h-full object-cover'/>
                     </div>
                     <div className="card relative h-60">
                         <div className="overlay">
@@ -61,7 +61,7 @@ const Projects = () => {
                             </Link>
                             </div>
                         </div>
-                        <Image src={"/project-3.png"} alt="image" width={300} height={200} className='w-full h-full'/>
+                        <Image src={"/project-3.png"} alt="image" width={300} height={200} className='w-full h-full object-cover'/>
                         
                     </div>
                 </div>

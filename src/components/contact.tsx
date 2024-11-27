@@ -8,7 +8,7 @@ const Contact = () => {
     <main className='contact pb-10  ' >
       <div>
 
-<h3 className='contact2 text-center text-xl md:text-2xl py-2 md:py-5 md:text-black'>Contact <span className='text-white'>Us</span></h3>
+<h3 className='contact2 text-center text-xl md:text-4xl py-2 md:py-5 md:text-black'>Contact <span className='text-white'>Us</span></h3>
       </div>
 
       <div className="container2 flex justify-center">
